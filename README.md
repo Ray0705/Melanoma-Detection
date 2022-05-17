@@ -18,10 +18,10 @@ Our objective is to build a CNN based model which can accurately detect melanoma
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Initially we build a simple CNN model, we got an training accuracy of around 87% and validation accuracy of around 54%. It is a clear sign of overfitting.
-- We have seen that, with the help of **data augmented method** and **dropout regularization method, overfitting of the data can be reduced.** In our case it reduced the overfitting, but decreased our training accuracy(approx. 60%) and validation accuracy(approx. 55%).
+- Initially we build a simple CNN model, we got an training accuracy of around 89% and validation accuracy of around 51%. It is a clear sign of overfitting.
+- We have seen that, with the help of **data augmented method** and **dropout regularization method, overfitting of the data can be reduced.** In our case it reduced the overfitting, but decreased our training accuracy(approx. 63%) and validation accuracy(approx. 57%).
 - To increase the accuracy of both training and validation with overfitting in check, we used augmented sampling technique with dropout regularization.
-- We can see that training accuracy increased from around 60% to approx. 93% and validation accuracy from around 55% to approx. 85% with removal of overfitting.
+- We can see that training accuracy increased from around 63% to 94% approx. and validation accuracy from around 57% to 85% approx. with removal of overfitting.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
